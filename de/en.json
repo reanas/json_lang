@@ -1,0 +1,49 @@
+{
+  "button": {
+    "cancel": "Absagen",
+    "save": "Speichern"
+  },
+  "address": {
+    "address": "Adresse",
+    "city": "Stadt",
+    "state": "Staat / Provinz",
+    "country": "Land",
+    "zip": "PLZ / Postleitzahl"
+  },
+  "profile": {
+    "profile": "Profil",
+    "language": "Sprache",
+    "fullName": "Vollständiger Name",
+    "email": "Email",
+    "companyName": "Name der Firma",
+    "location": "Ort",
+    "attachments": "Anhänge",
+    "download": "Download",
+    "becomeTransporter": "Transporteur werden",
+    "addresses": "Adressen",
+    "addressesInfo": "Lieferorte, an denen Sie interessiert sind."
+  },
+  "delivery": {
+    "delivery": "Lieferung",
+    "deliveries": "Lieferungen",
+    "deliveriesListInfo": "Eine Liste aller Ihrer Lieferanfragen.",
+    "newDelivery": "Neue Lieferung",
+    "newDeliveryInfo": "Geben Sie die Details Ihrer Anfrage ein.",
+    "packageInfo": "Paketinformationen",
+    "title": "Titel",
+    "description": "Beschreibung",
+    "dimentions": "Abmessungen (cm)",
+    "width": "Breite",
+    "height": "Höhe",
+    "length": "Länge",
+    "weight": "Gewicht (kg)",
+    "images": "Bilder",
+    "upload": "Bilder hochladen",
+    "dragndrop": "oder ziehen und ablegen",
+    "uploadInfo": "5 Bilder max. bis zu 2 MB pro Bild",
+    "Pick_Up_Location": "Treffpunkt",
+    "Pick_Up_Date": "Abholdatum",
+    "Drop_Off_Location": "Rückgabestation",
+    "Drop_Off_Date": "Abgabedatum"
+  }
+}
