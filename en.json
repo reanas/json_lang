@@ -1,0 +1,49 @@
+{
+    "button": {
+        "cancel": "Cancel",
+        "save": "Save"
+    },
+    "address": {
+        "address": "Address",
+        "city": "City",
+        "state": "State / Province",
+        "country": "Country",
+        "zip": "ZIP / Postal code"
+    },
+    "profile": {
+        "profile": "Profile",
+        "language": "Language",
+        "fullName": "Full Name",
+        "email": "Email",
+        "companyName": "Company Name",
+        "location": "Location",
+        "attachments": "Attachments",
+        "download": "Download",
+        "becomeTransporter": "Become a Transporter",
+        "addresses": "Addresses",
+        "addressesInfo": "Delivery locations you are interested in."
+    },
+    "delivery": {
+        "delivery": "Delivery",
+        "deliveries": "Deliveries",
+        "deliveriesListInfo": "A list of all your delivery requests.",
+        "newDelivery": "New Delivery",
+        "newDeliveryInfo": "Fill in the details of your request.",
+        "packageInfo": "Package Information",
+        "title": "Title",
+        "description": "Description",
+        "dimentions": "Dimentions (cm)",
+        "width": "Width",
+        "height": "Height",
+        "length": "Length",
+        "weight": "Weight (kg)",
+        "images": "Images",
+        "upload": "Upload images",
+        "dragndrop": "or drag and drop",
+        "uploadInfo": "5 Images max up to 2MB per image",
+        "Pick_Up_Location": "Pick Up Location",
+        "Pick_Up_Date": "Pick Up Date",
+        "Drop_Off_Location": "Drop Off Location",
+        "Drop_Off_Date": "Drop Off Date"
+    }
+}
