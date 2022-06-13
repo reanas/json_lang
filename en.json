@@ -1,7 +1,8 @@
 {
     "button": {
         "cancel": "Cancel",
-        "save": "Save"
+        "save": "Save",
+        "apply": "Apply"
     },
     "address": {
         "address": "Address",
@@ -9,6 +10,14 @@
         "state": "State / Province",
         "country": "Country",
         "zip": "ZIP / Postal code"
+    },
+    "application": {
+        "application": "Application",
+        "applicationInfo": "Fill in the details of your Application request.",
+        "applicationRequest": "Application request",
+        "documents": "Documents",
+        "upload": "Upload files",
+        "uploadInfo": "5 PDFs max up to 2MB per file"
     },
     "profile": {
         "profile": "Profile",
